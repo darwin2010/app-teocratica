@@ -1,0 +1,23 @@
+.login-page {
+    background:#275a61 url(../img/stars.jpg);
+    background-size:cover;
+    position:relative;
+  }
+.login-card-body
+{
+    border-radius: 5em;
+    border: groove 1em rgb(15, 72, 196);
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+    color: rgb(250, 245, 245); 
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    box-sizing: border-box;
+    background: rgba(0,0,0,.7);
+}
+.a
+{
+color: rgb(250, 245, 245); 
+}
